@@ -6,4 +6,6 @@ Easiest way to get the mods is to hit the green "code" button, then download zip
 
 Make sure in your instance, you go into the setting, hit the Java tab, and up the memory allocation. 6900+ works just fine.
 
+When in-game, go in the menu-->settings-->controls-->keybinds and scroll down (near bottom) to Origins. Set the ability keybind (starts on G) to R. While many other things claim they are conflicting, they should be fine.
+
 Everything should be up to date and functional as of 5/1/2024.
