@@ -10,4 +10,6 @@ When in-game, go in the menu-->settings-->controls-->keybinds and scroll down (n
 
 Some mods are for performance, such as Rubidium and Distant Horizons. If you don't care for those, you can remove them.
 
+If you want shader packs, I recommend Complementary Shaders or Potato Shaders (great for less powerful computers).
+
 Everything should be up to date and functional as of 5/1/2024.
