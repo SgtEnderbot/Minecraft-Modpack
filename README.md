@@ -4,4 +4,6 @@ To use the pack, install Prism Launcher. Everything is for 1.20.1, so create an 
 
 Easiest way to get the mods is to hit the green "code" button, then download zip. Unzip the file and add all the mods to the Prism instance.
 
+Make sure in your instance, you go into the setting, hit the Java tab, and up the memory allocation. 6900+ works just fine.
+
 Everything should be up to date and functional as of 5/1/2024.
